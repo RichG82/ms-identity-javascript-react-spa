@@ -33,11 +33,11 @@
         "settingFile": "/src/authConfig.js", 
           "replaceTokens": 
             {
-            "appId": "Enter_the_Application_Id_Here",
-            "tenantId": "Enter_the_Tenant_Info_Here",
-            "authorityEndpointHost": "Enter_the_Cloud_Instance_Id_Here",
-            "redirectUri": "Enter_the_Redirect_Uri_Here",
-            "msgraphEndpointHost": "Enter_the_Graph_Endpoint_Here"
+            "appId": "c1446473-4357-4f23-98fa-3c12a31d4cb1",
+            "tenantId": "3f3b5cd3-686d-4f4f-b11d-074f2e1010b8",
+            "authorityEndpointHost": "https://login.microsoftonline.com/",
+            "redirectUri": "http://localhost:3000",
+            "msgraphEndpointHost": "https://graph.microsoft.com"
           }
         }
       ]
